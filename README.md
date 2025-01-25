@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Elixir when using `Enum.reduce` with conditional logic within the reducing function. The provided code snippet intends to sum only the elements greater than 3 in the list. However, it does not yield the expected result due to the way the accumulator is updated. The solution shows the correct implementation.
